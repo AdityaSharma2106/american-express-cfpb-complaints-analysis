@@ -1,5 +1,11 @@
 # American Express CFPB Complaints Analysis
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 ## Project Overview
 
 This project analyzes Consumer Financial Protection Bureau (CFPB) complaint data to identify customer pain points, complaint trends, and business risks affecting American Express. Using Python, SQL, and Power BI, the project delivers actionable insights and business recommendations to improve customer experience.
