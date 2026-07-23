@@ -88,12 +88,12 @@ american-express-cfpb-complaints-analysis/
 
 ---
 
-## Files Included
+## Project Files
 
-- 📊 Power BI Dashboard (.pbix)
-- 📓 Jupyter Notebook
-- 📑 Executive Presentation (PDF)
-- 📁 CFPB Complaint Dataset
+- 📓 [Jupyter Notebook](notebooks/American_Express_CFPB_Analysis.ipynb)
+- 📊 [Power BI Dashboard](powerbi/amex%20bi.pbix)
+- 📄 [Project Presentation](presentation/American_Express_CFPB_Analysis.pdf)
+- 📁 [Dataset](data/)
 
 ---
 
