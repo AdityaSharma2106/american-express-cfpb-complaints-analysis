@@ -79,6 +79,15 @@ american-express-cfpb-complaints-analysis/
 
 ---
 
+## Results
+
+- Analyzed 196,835 CFPB complaints across 9 financial institutions.
+- Identified major complaint categories affecting customer satisfaction.
+- Built interactive Power BI dashboards for executive reporting.
+- Generated business recommendations to improve dispute resolution, promotional transparency, and collections experience.
+
+---
+
 ## Files Included
 
 - 📊 Power BI Dashboard (.pbix)
